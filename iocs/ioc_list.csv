@@ -1,0 +1,4 @@
+Type,Indicator,Source,Description
+Email Address,raygun@stem2mars.com,suspicious_email.eml,Suspicious sender address
+Domain,stem2mars.com,suspicious_email.eml,Sender domain requiring investigation
+SHA256,CD577024C35E474396E261720F813E63CE01E1C1342F30E9DCCF7AF7DC66E703,suspicious_email.eml,SHA-256 hash of preserved email
