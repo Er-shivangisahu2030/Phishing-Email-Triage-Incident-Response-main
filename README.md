@@ -21,9 +21,9 @@ The project demonstrates a SOC-style workflow for triaging a suspicious email fr
 
 **Subject:** DIRECT DEPOSIT CHANGE
 
-**Sender:** raygun@stem2mars.com
+**Sender:** shivangi071@gmail.com
 
-**Sender Domain:** stem2mars.com
+**Sender Domain:** gmail.com
 
 **Classification:** Suspected Payroll Fraud / Business Email Compromise (BEC)
 
